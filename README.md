@@ -7,3 +7,6 @@ Youtube Link for full video: https://youtu.be/h3_qWMICBXI
 
 
 [![](https://youtube.com/shorts/1qeHGSxNdec?feature=share)]()
+
+
+https://youtube.com/shorts/1qeHGSxNdec?feature=share
