@@ -8,4 +8,4 @@ import LinkedPak as pak
 # warnings.filterwarnings('ignore')
 # warnings.warn('DelftStack')
 # warnings.warn('Do not show this message')
-pak.follow_activities()
+# pak.follow_activities()
