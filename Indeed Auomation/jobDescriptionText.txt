@@ -1,0 +1,47 @@
+A junior front-end developer MT will be responsible for developing and maintaining the visual elements of a website or application. This includes designing and implementing user interfaces, ensuring that the website is visually appealing and easy to navigate, and ensuring that the website is responsive across different devices.
+Responsibilities
+
+Develop and maintain the user interface for our machine translation system.
+Collaborate with backend developers to integrate frontend components.
+Create responsive designs using HTML, CSS, and Bootstrap.
+Write efficient code using JavaScript and jQuery.
+Test and fix frontend issues.
+
+Qualifications
+
+Bachelor's degree in Computer Science or related field.
+Strong proficiency in HTML, CSS, Bootstrap, JS, and jQuery.
+Experience with version control systems (e.g., Git).
+Strong problem-solving skills and attention to detail.
+Excellent communication and teamwork abilities.
+Familiarity with machine translation technologies is a plus.
+
+Benefits
+
+Office timings are 8AM - 5PM (Punctuality bonus)
+Lunch and meals provided by the office
+Performance-based bonuses
+
+Stipend: 20,000pkr plus Attendance bonus
+Availability
+
+Can join as soon as possible and make an effective mark in growing the team
+
+Location
+
+Karachi, Pakistan
+
+Job Type: Full-time
+Ability to commute/relocate:
+
+Karachi: Reliably commute or planning to relocate before starting work (Required)
+
+Application Question(s):
+
+What is your current Salary?
+What is your expected salary?
+
+Experience:
+
+Javascript & Jquery: 1 year (Required)
+HTML, CSS & Bootstrap: 1 year (Required)
