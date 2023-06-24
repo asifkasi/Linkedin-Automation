@@ -1,0 +1,51 @@
+Pinnacle is seeking a highly skilled “Frontend Engineer” with 2 years of professional experience with a strong focus on frontend development. The ideal candidate is a creative individual who thinks out of the box and would like to work in a diverse technology environment.
+Technical Skills (Required):
+
+Strong proficiency in HTML, CSS, and JavaScript.
+Experience with JavaScript frameworks such as React, Angular, or Vue.js.
+Proficiency in responsive web design and cross-browser compatibility.
+Knowledge of front-end build tools like Webpack, Gulp, or Grunt.
+Familiarity with version control systems like Git and code collaboration platforms (GitHub, Bitbucket).
+Understanding of UI/UX principles and ability to work closely with designers.
+Experience with RESTful APIs integration and asynchronous programming.
+Experience of integrating JSON Based Microservices.
+Knowledge of performance optimization techniques for web applications.
+Strong problem-solving and debugging skills.
+Excellent communication and collaboration skills to work effectively within a team.
+
+Qualifications:
+
+Bachelor's degree in Computer Science or a related field.
+Experience as a Frontend Engineer for minimum 1-2 Years.
+Stay up to date with industry trends, advancements, and emerging technologies related to frontend development.
+
+Interpersonal Skills:
+
+Ability to understand business requirements.
+Strong software architecture and design concepts.
+Excellent analytical, diagnostic, and problem-solving skills
+Excellent communication skills.
+Ability to multitask, prioritize work, and meet deadlines in a fast-paced and dynamic environment.
+
+Shift: Canadian Time zones
+Gender: Male/Female
+Location: DHA Phase II Ext, Karachi.
+Send CV to careers@hirelivesupport.com
+Job Type: Full-time
+Pay: Rs90,000.00 - Rs100,000.00 per month
+Education:
+
+Bachelor's (Required)
+
+Experience:
+
+Frontend Engineer: 2 years (Required)
+
+Language:
+
+Ènglish (Required)
+
+Shift availability:
+
+Night Shift (Required)
+Overnight Shift (Required)

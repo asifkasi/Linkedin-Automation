@@ -1,0 +1,22 @@
+Key Responsibilities:
+
+Developing and maintaining website.
+Implementing responsive design using media queries or Bootstrap
+Collaborating with designers to ensure seamless integration of front-end design
+Writing clean, modular, and maintainable code
+Staying up-to-date with the latest front-end technologies and best practices
+Participating in code reviews and sharing knowledge with the team
+Experience with WordPress or Shopify will be considered a plus point.
+
+Requirements:
+
+At least 6 months of experience with HTML, CSS, JavaScript, and jQuery
+Understanding of responsive design principles and media queries
+Familiarity with Bootstrap and version control (Git)
+Strong debugging and troubleshooting skills
+Excellent communication and collaboration skills
+Strong attention to detail and ability to work in a fast-paced environment
+Bachelor's degree in Computer Science or a related field
+
+Job Type: Full-time
+Salary: Rs25,000.00 - Rs30,000.00 per month

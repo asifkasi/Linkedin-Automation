@@ -1,0 +1,28 @@
+We are seeking a skilled and motivated Front End Developer to join our team. The ideal candidate should possess a strong understanding of front end development, with expertise in both React and Angular frameworks. The candidate should also have 1-2 years of relevant experience in the field, along with familiarity in working with design tools like Figma and creating animations.
+Responsibilities
+
+Collaborate with cross-functional teams to design, develop, and implement responsive user interfaces using React and Angular frameworks.
+Translate UI/UX designs into pixel-perfect, interactive web pages with smooth animations and transitions.
+Write clean, efficient, and maintainable code using best practices and coding standards.
+Conduct thorough testing and debugging of web applications to ensure optimal performance and user experience across different browsers and devices.
+Continuously optimise and enhance front end performance and usability.
+Work closely with designers, back end developers, and stakeholders to ensure seamless integration of front end and back end components.
+Stay up-to-date with the latest trends and advancements in front end development, and provide suggestions for improvement and innovation.
+Collaborate with the design team to understand and implement design concepts, utilising tools like Figma and adhering to design guidelines.
+
+Requirements
+
+Bachelor's degree in Computer Science, Software Engineering, or a related field.
+1-2 years of professional experience in front end development.
+Strong proficiency in React and Angular frameworks, with a solid understanding of their core principles and best practices.
+Proficiency in HTML5, CSS3, and JavaScript
+Familiarity with design tools like Figma and the ability to work closely with designers to implement their vision.
+Strong knowledge of responsive design principles and mobile-first development.
+Experience with creating animations and transitions using CSS and JavaScript libraries.
+Understanding of web performance optimisation techniques.
+Excellent problem-solving skills and attention to detail.
+Strong communication and collaboration skills, with the ability to work effectively in a team environment.
+
+Job Type: Full-time
+Salary: Rs60,000.00 - Rs85,000.00 per month
+Expected Start Date: 19/06/2023

@@ -1,0 +1,57 @@
+A junior front-end developer will be responsible for developing and maintaining the visual elements of a website or application. This includes designing and implementing user interfaces, ensuring that the website is visually appealing and easy to navigate, and ensuring that the website is responsive across different devices.
+Requirements
+
+Bachelors Degree in Computer Science or relevant field
+Working knowledge of Nextjs and Typescript is mandatory
+Minimum of 1 year of experience in frontend development
+Experience with HTML, CSS, and JavaScript
+Experience with responsive design principles
+Familiarity with design tools such as Figma
+Good Knowledge in React.Js
+
+Skills
+
+Strong problem-solving skills
+Attention to detail and ability to follow design specifications
+Good communication skills, both verbal and written
+Ability to work independently and in a team
+
+Responsibilities
+
+Collaborate with designers and developers to implement user interface designs
+Write clean, maintainable, and efficient code
+Test and debug frontend code
+Stay up-to-date with the latest web development technologies and best practices
+Contribute to the development of frontend frameworks and libraries
+Assist in the maintenance and updates of existing websites and applications.
+
+Benefits
+
+Office timings are 8AM - 5PM (Punctuality bonus)
+Lunch and meals provided by the office
+Performance-based bonuses
+
+Availability
+
+Can join as soon as possible and make an effective mark in growing the team
+
+Location
+
+Karachi, Pakistan
+
+Job Type: Full-time
+Ability to commute/relocate:
+
+Karachi: Reliably commute or planning to relocate before starting work (Required)
+
+Application Question(s):
+
+What is your current Salary?
+What is your expected salary?
+Have you worked on NextJs, Reactjs, Redux and Typescript?
+
+Experience:
+
+Javascript & React.js: 1 year (Required)
+Frontend Development: 1 year (Required)
+HTML & CSS: 1 year (Required)
